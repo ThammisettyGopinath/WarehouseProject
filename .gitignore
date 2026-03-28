@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Sensitive files (DO NOT COMMIT)
+src/main/resources/application.properties
+.env
+application-dev.properties
